@@ -1,3 +1,5 @@
+# firebase-auth-helper
+
 Host the above files under your app domain. Ensure that your web server can respond to:
 ```
 https://<your_domain>/__/auth/handler
